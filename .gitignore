@@ -95,7 +95,6 @@ $RECYCLE.BIN/
 #exclude files
 node_modules
 dist
-homework-completed.pdf
 .cache
 .DS_Store
 
